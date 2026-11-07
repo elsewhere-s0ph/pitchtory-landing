@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pitchtory-home.pages.dev/sitemap.xml

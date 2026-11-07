@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://pitchtory-home.pages.dev/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pitchtory-home.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pitchtory-home.pages.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pitchtory-home.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://pitchtory-home.pages.dev/en/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pitchtory-home.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pitchtory-home.pages.dev/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pitchtory-home.pages.dev/"/>
+  </url>
+  <url>
+    <loc>https://pitchtory-home.pages.dev/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pitchtory-home.pages.dev/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pitchtory-home.pages.dev/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pitchtory-home.pages.dev/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://pitchtory-home.pages.dev/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://pitchtory-home.pages.dev/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pitchtory-home.pages.dev/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pitchtory-home.pages.dev/privacy.html"/>
+  </url>
+</urlset>
